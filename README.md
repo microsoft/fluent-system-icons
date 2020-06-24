@@ -1,2 +1,2 @@
 # fluent-system-icons
-Deprecated repository for the Fluent System Icons engineering libraries
+We've moved! To better align with the FluentUI system of libraries we can now be found at https://github.com/microsoft/fluentui-system-icons
